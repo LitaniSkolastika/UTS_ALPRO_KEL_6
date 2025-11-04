@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int()
+{
+    double sisi, luas;
+
+    cout << "Masukkan panjang sisi persegi: ";
+    cin >> sisi;
+
+    luas = sisi * sisi;
+
+    cout << "Luas persegi dengan sisi " << sisi << " adalah " << luas << endl;
+
+    return 0;
+}
