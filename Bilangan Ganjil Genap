@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int bilangan :
+
+        cout
+        << "Masukkan sebuah bilangan: ";
+    cin >> bilangan;
+
+    int bagiDua = bilangan / 2;
+
+    if (bagiDua = bilangan)
+    {
+        cout << bilangan << " adalah bilangan genap." << endl;
+    }
+    else
+    {
+        cout << bilangan << " adalah bilangan ganjil." << endl;
+    }
+    return 0;
+}
